@@ -1,4 +1,6 @@
 # file-split
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/alexander-heimbuch/file-splitter.svg)](https://greenkeeper.io/)
 Commandline tool for splitting a file into multiple files based on a given delemiter.
 
 ## Installation
