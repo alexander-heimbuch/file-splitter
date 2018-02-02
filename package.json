@@ -9,9 +9,9 @@
     "author": "Alexander Heimbuch (alex@zusatzstoff.org)",
     "license": "MIT",
     "dependencies": {
-        "bluebird": "^2.9.13",
-        "cli": "^0.6.5",
-        "sillyname": "0.0.3"
+        "bluebird": "^3.5.1",
+        "cli": "^1.0.1",
+        "sillyname": "0.1.0"
     },
     "repository": {
         "type": "git",
